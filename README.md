@@ -41,13 +41,6 @@ Tôi là một **Backend Developer** chuyên sâu về hệ sinh thái **Java**.
     <img src="https://leetcard.jacoblin.cool/Kaminh?theme=dark&font=Galada&ext=activity">
 </div>
 
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tobii1707&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobii1707&layout=compact&theme=tokyonight" />
-</div>
-
 ---
 
 ## 📫 Liên hệ với tôi
