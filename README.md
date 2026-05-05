@@ -10,7 +10,7 @@
 Tôi là một **Backend Developer** chuyên sâu về hệ sinh thái **Java**. Tôi tập trung xây dựng các hệ thống phía Server mạnh mẽ và tối ưu hóa trải nghiệm người dùng thông qua các API chất lượng.
 
 * 🔭 **Thế mạnh chính:** Phát triển Microservices và Web Application với **Spring Boot**.
-* ⚙️ **Kiến thức bổ trợ:** Tôi có nền tảng về **C/C++** và tư duy cấu trúc dữ liệu.
+* ⚙️ **Kiến thức bổ trợ:** Nắm vững nền tảng cấu trúc dữ liệu và giải thuật.
 * 🌐 **Phát triển Web:** Thành thạo các kỹ năng cơ bản HTML, CSS, JavaScript và xây dựng giao diện với **Angular**.
 
 ---
@@ -27,8 +27,6 @@ Tôi là một **Backend Developer** chuyên sâu về hệ sinh thái **Java**.
 
 ### 🛠 Kỹ năng hỗ trợ khác
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
