@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=800&height=90&duration=4000&lines=Hello+Everyone!+👋;+I'm+Junior!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=800&height=90&duration=4000&lines=Hello+Everyone!+👋;+I'm+Junior2k4!" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@ Tôi là một **Backend Developer** chuyên sâu về hệ sinh thái **Java**.
 
 * 🔭 **Thế mạnh chính:** Phát triển Microservices và Web Application với **Spring Boot**.
 * ⚙️ **Kiến thức bổ trợ:** Tôi có nền tảng về **C/C++** và tư duy cấu trúc dữ liệu.
-* 🌐 **Phát triển Web:** Thành thạo các kỹ năng cơ bản HTML, CSS và JavaScript.
+* 🌐 **Phát triển Web:** Thành thạo các kỹ năng cơ bản HTML, CSS, JavaScript và xây dựng giao diện với **Angular**.
 
 ---
 
@@ -31,11 +31,12 @@ Tôi là một **Backend Developer** chuyên sâu về hệ sinh thái **Java**.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Hoạt động & Thống kê (Username: Tobii1707)
+## 📊 Hoạt động & Thống kê (Username: Junior2k4)
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/Kaminh?theme=dark&font=Galada&ext=activity">
 </div>
@@ -52,5 +53,5 @@ Tôi là một **Backend Developer** chuyên sâu về hệ sinh thái **Java**.
 ## 📫 Liên hệ với tôi
 <p align="center">
 <a href="mailto:hanamkhanh2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-hanamkhanh2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Tobii1707"><img src="https://img.shields.io/badge/GitHub-Tobii1707-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Tobii1707"><img src="https://img.shields.io/badge/GitHub-Junior2k4-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
